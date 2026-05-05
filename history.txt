@@ -1,0 +1,11 @@
+$ history
+    1  git clone git@github.com:Lindokuhle204/student_sub_system.git
+    2  cd student_sub_system
+    3  code .
+    4  rm -m history.txt
+    5  touch index.html
+    6  touch about.html
+    7  touch history.txt
+    8  git add .
+    9  git commit -m "changes made in my repository"
+   10  history
